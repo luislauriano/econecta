@@ -1,4 +1,4 @@
-# 🎨 Aprende Mais - Recomendação de Vídeos e Projetos DIY ♻️
+# 🎨 Econecta ♻️
 
 Este projeto é uma aplicação interativa desenvolvida em **Streamlit** que fornece recomendações de vídeos e projetos DIY (faça-você-mesmo) com base no feedback dos usuários e nos materiais disponíveis. É uma solução prática e sustentável para quem gosta de aprender, reaproveitar materiais e criar coisas novas!
 
