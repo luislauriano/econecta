@@ -85,5 +85,5 @@ Este projeto é licenciado sob a [MIT License](https://opensource.org/licenses/M
 
 ### ✨ Autor
 
-Desenvolvido por **[Seu Nome]**.  
-Entre em contato via [LinkedIn](https://www.linkedin.com/) ou [E-mail](mailto:seuemail@dominio.com).
+Desenvolvido pelo time Econecta.  
+
